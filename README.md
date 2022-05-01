@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TibbeD
-- 👀 I’m interested in: making Discord bots, Telegrm bots, programming in general
+- 👀 I’m interested in: programming (which is standard here I guess :) )
 - 🌱 I’m currently learning: Rust
-- 💞️ I’m looking to collaborate on: whatever is possible
+- 💞️ I’m looking to collaborate on: anything
 - 📫 How to reach me: 
 
 <!---
